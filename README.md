@@ -17,21 +17,6 @@ README.md — описание проекта.
 ## Доступ к приложению
 Приложение доступно по адресу: https://currency-rate.ivanova-olga-vds.ru/
 
-```text
-[https://currency-rate.ivanova-olga-vds.ru](https://currency-rate.ivanova-olga-vds.ru/)
-```
-
-или
-
-```text
-http://currency-rate.ivanova-olga-vds.ru:5003
-```
-
-в зависимости от используемой конфигурации Nginx и HTTPS.
-
-
-
-
 ## Запуск приложения
 
 1. Клонировать репозиторий:

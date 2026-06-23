@@ -1,0 +1,13 @@
+services:
+
+  app:
+
+    build: .
+
+    container_name: currency-app
+
+    ports:
+
+      - "5003:5000"
+
+    restart: always

@@ -8,11 +8,11 @@
 
 - app.py — контроллер Flask-приложения;
 - model.py — модель приложения и работа с базой данных;
-templates/index.html — HTML-шаблон интерфейса;
-requirements.txt — список зависимостей;
-Dockerfile — файл сборки Docker-образа;
-docker-compose.yml — конфигурация Docker Compose;
-README.md — описание проекта.
+- templates/index.html — HTML-шаблон интерфейса;
+- requirements.txt — список зависимостей;
+- Dockerfile — файл сборки Docker-образа;
+- docker-compose.yml — конфигурация Docker Compose;
+- README.md — описание проекта.
 
 ## Доступ к приложению
 Приложение доступно по адресу: https://currency-rate.ivanova-olga-vds.ru/

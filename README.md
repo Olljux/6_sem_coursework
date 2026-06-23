@@ -1,28 +1,24 @@
 # 6_sem_coursework
 
-# Currency Rate Web Application
+# Веб-приложение для отслеживания курсов валют Центрального банка Российской Федерации.
 
-```text
-app.py                 - контроллер Flask
+Приложение разработано на Python с использованием Flask и архитектуры MVC. Для хранения данных используется база данных SQLite.
 
-model.py               - модель приложения
+Репозиторий содержит:
 
-templates/index.html   - HTML-шаблон
-
-requirements.txt       - зависимости Python
-
-Dockerfile             - инструкция сборки Docker-образа
-
-docker-compose.yml     - конфигурация Docker Compose
-
----
+app.py — контроллер Flask-приложения;
+model.py — модель приложения и работа с базой данных;
+templates/index.html — HTML-шаблон интерфейса;
+requirements.txt — список зависимостей;
+Dockerfile — файл сборки Docker-образа;
+docker-compose.yml — конфигурация Docker Compose;
+README.md — описание проекта.
 
 ## Доступ к приложению
-
-После запуска приложение доступно по адресу:
+Приложение доступно по адресу: https://currency-rate.ivanova-olga-vds.ru/
 
 ```text
-https://currency-rate.ivanova-olga-vds.ru
+[https://currency-rate.ivanova-olga-vds.ru](https://currency-rate.ivanova-olga-vds.ru/)
 ```
 
 или
